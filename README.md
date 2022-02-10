@@ -259,7 +259,7 @@ friends_link:
     # site url
     url: https://github.com/Shen-Yu/hexo-theme-ayer
     # site icon(optional)
-    img: /images/ayer.png
+    img: /images/torch.png
   GitHub:
     url: https://github.com/Shen-Yu
     img: https://i.loli.net/2020/09/07/indb4PRYDA98EkN.png
